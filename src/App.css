@@ -1,0 +1,7 @@
+body {
+ 
+  background-image: url("/frontend/image-1.avif");
+   @apply bg-no-repeat bg-cover bg-center min-h-screen;
+  color: white;
+
+}
